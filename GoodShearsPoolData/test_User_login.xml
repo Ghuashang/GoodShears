@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<test_User_Login>
+    <test_login0001>
+        <Phone> </Phone>
+        <code> </code>
+        <expValue>请输入手机号</expValue>
+    </test_login0001>
+    <test_login0002>
+        <Phone>132526042776</Phone>
+        <code>""</code>
+        <expValue>请输入验证码</expValue>
+    </test_login0002>
+</test_User_Login>
